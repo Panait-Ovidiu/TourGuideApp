@@ -1,0 +1,143 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Tour Guide App</string>
+    <!-- Tab names -->
+    <string name="category_churches">Churches</string>
+    <string name="category_historical">History</string>
+    <string name="category_statues">Statues</string>
+    <string name="category_museums">Museums</string>
+    <string name="city">City :</string>
+    <string name="address">Address :</string>
+    <string name="description">Description :</string>
+    <!-- City -->
+    <string name="location">Constanta</string>
+    <!-- Churches -->
+    <string name="churchesName_1">The Carol I Mosque</string>
+    <string name="churchesAddress_1">Str.Crangului Nr.1</string>
+    <string name="churchesDescription_1">The mosque was built between 1910-1913, on the site of
+        a former glaze, Mahmudia (from 1822-1825), at the initiative of King Carol I and the
+        money of the Roman state. The project belongs to the architect Victor Gh.Stefanescu,
+        the way of realization being by Gogu Constantinescu, who came especially from London for
+        this construction. The actual construction of the contractor belongs to Ion Neculcea.
+        The architect was decorated on this occasion by the representative of Sultan Abdul
+        Hamid II, Medgidie. It is built in Arabic-Byzantine style, with Romanian architectural
+        motifs. From the old mosque, the Moorish minaret was still preserved. The mosque
+        consists of two parts: an inner courtyard with two wings where believers can shelter
+        and wash their feet before they start praying. The total area is 450 square meters,
+        the height of the 25 m dome with a diameter of 8 m and the minaret height of 37 m.
+        The building is made of stone and brick, except the dome and the minaret that are
+        reinforced concrete. The main portal is made of Dobrogea stone and the black marble
+        door with bronze inlays. The inner columns are marble of Campulung (Mateias).
+        The domes and the minaret will be covered with verses from the Quran on a gold
+        background, and the rest of the walls are covered in yellow and green tiles.</string>
+    <string name="churchesName_2">Orthodox Cathedral of the Holy Apostles Peter and Paul</string>
+    <string name="churchesAddress_2">Str.Arhiepiscopiei Nr.25</string>
+    <string name="churchesDescription_2">The architects who worked in stages and with different
+        weight at the Cathedral project are: Al.Savulescu, (abandoned plan), Al.Orascu and Carol
+        Benes. The construction works according to the plan and instructions given by the
+        architect engineer Carol Benes. The foundation stone at the foundation of the edifice
+        was laid on September 4, 1883, but the works continued during 1884-1885, making a
+        provisional reception on September 25, 1885. Sanctification of the church dedicated to
+        the Apostles Peter and Paul takes place only on May 22 1895. The decoration of the
+        interior is done by the architect Ion Mincu (for furniture - the catapetasm, the
+        emperors candles, the candles, the side, etc.), and the painter George Demetrescu
+        Mirea for the fresco. Only the portraits of King Carol I and Queen Elizabeth are made
+        by the painter Oscar Obedenaru (1866-1915). Severely damaged during the war to
+        re-establish the nation, in 1922 the problem of repairs was raised. Already the
+        fresco painted by Mirea was blackened due to a poor preparation of the plaster.
+        He is authorized to restore the interior of the cathedral by the Ministry of
+        Religious Affairs, the church painter, Gheorghe Raicu. In August 1941, the cathedral
+        suffered damage to the roof, masonry and painting, but the repairs began only in 1946,
+        according to the estimates of the architect Ionescu Berechet. The church reopened in
+        1951, being sanctified by PF Justinian, Patriarch of the Romanian Orthodox Church and
+        Bishop Chesarie. The frescoes later recovered, the reprocessing performed in the
+        Neo-Soviet style by the painters Gheorghe Popescu and Niculina Dona
+        Delavrancea in 1959-1961.</string>
+    <!-- History -->
+    <string name="historyName_1">The Genovez Lighthouse</string>
+    <string name="historyAddress_1">Bdul. Elisabeta with Str.Remus Opreanu</string>
+    <string name="historyDescription_1">Between 1858 and 1860, the English company Danube and
+        Black Sea Railway Co: Limited, led by John Trevor Barklay, builds (probably on the site
+        of a high lighted barrage by the Genoese, who traded in this area of ​​the Euxin Pontus,
+        around 1300 ), Genoese Lighthouse. The construction works were led by Major Artlan Aslan,
+        from the English contractor, chief vame of Constanta Harbor in 1858 and finished in 1860.
+        The monument is a parallelepipedic building at the base, up to 3.5m and octagonal in rest.
+        The hexagonal spiral is made of And the height of the lighthouse is 8m. At the top there is
+        a metallic dome, and the internal space is cylindrical, from it a stone ladder is made.
+        The frame functioned until 1913, when the new Far Carol I took over role.</string>
+    <string name="historyName_2">Casino</string>
+    <string name="historyAddress_2">Bd.Elisabeta, Nr.2</string>
+    <string name="historyDescription_2">The casino is located in the area between 1880-1902 where
+        there was a casino - a wooden building where concerts, theater and ball shows were held.
+        The construction of an edifice with functions similar to the big European casinos began in
+        1904. Among the entrepreneurs of the edifice are the only son of the illustrious
+        storyteller, captain C.I. Creanga, confectioner and chef from Bucharest, with whom
+        the Constanta City Hall had concluded on May 8, 1902, a contract Of rental. In 1903,
+        Mayor Cristea Georgescu concludes a contract for the construction of a casino, with
+        the architect Daniel Renard. In 1906 the fundamental stone at the casino was put in the
+        variant of Petre Antonescu project. Initially, the plans were drawn by architect
+        Petre Antonescu. He had designed a building whose architectural style was inspired
+        by the traditions of Romanian art. After the foundations were finished, the plans
+        were changed, the City Hall entrusting their modification to a French architect,
+        Daniel Renard, who abandoned the principles of Romanian style in favor of the eclectic,
+        Art Nouveau. The edifice ended in 1910, and in 1912 it was made the last retouching.
+        Presents in the central part the patio terrace, supported on a wide porch, dominated
+        by a fan-shaped stained glass. The upper part of the building is decorated with
+        architectural elements of the shape of ancient ships with ram heads and seaweed garlands.
+        It was restored in 1951, 1981, and in 2008 it underwent major repairs.</string>
+    <!-- Museums -->
+    <string name="museumsName_1">Museum of National History and Archeology Constanta</string>
+    <string name="museumsAddress_1">Piata Ovidiu Nr.12</string>
+    <string name="museumsDescription_1">The foundation stone at the foundation of the
+        Communal Palace was laid on May 22, 1912 by the heir to the throne, Prince Ferdinand.
+        After the religious service of Bishop Nifon, Prince Ferdinand signed the commemorative
+        act, along with: Bishop Nifon, Constantin Pariano, Mayor Titus Cananau Other counselors.
+        Initially, the projects provided for the foundation a depth of 3-4m, then 5-7m, in order
+        to finally reach no less than 17m, until the builders met solid soil. The edifice is
+        raised by dismantling the Neptun and Thetis streets on the old access road to the port.
+        The works are stopped due to the ever-expanded costs in 1913, resumed in the summer of
+        1914 and stopped again, due to the First World War, for a while. Between 1919 and 1921
+        the works of the contractor, Mr. C.M. Vasilescu, after the projects of the
+        Victor Stefanescuarchive ended, and on July 17, 1921, the communal palace was
+        inaugurated, in two successive numbers of the Farul newspaper, by the famous I.N.Duployen
+        and I.N.Roman. At the initiative of Ion Theodorescu Sion, it is proposed to paint the
+        reception hall of the Communal Palace, but the fresco is performed much later, in
+        the years 1966 - 1968, in an unusual vision by the painters Niculina Dona Delavrancea
+        and Gheorghe Popescu. The massive and imposing construction is part of the series of
+        public edifices built in Neo-Romanian style: the rhythm of columns, richly decorated at
+        the base and the capite, which sustains an arcade with the all-circular opening, strongly
+        underlined by strips with decoration. The entrance and the two more advanced side windows
+        have stone frames. The rigorous orizontality of the building is underlined
+        by a massive brick block.</string>
+    <string name="museumsName_2">The Ion Jalea Sculpture Museum</string>
+    <string name="museumsAddress_2">Str. Arhiepiscopiei Nr. 26</string>
+    <string name="museumsDescription_2">Because it is a museum dedicated to the great sculptor
+        Ion Jalea, who made his works with one hand. Museum sculpture Ion Jalea to be in Utah,
+        near the cathedral St. Peter and Paul is housed in a building which bears the imprint
+        architectural style Brancoveanu. The building was built at the beginning of the sec.
+        nineteenth century, the work of architect Victor Stephănescu, who designed the
+        National Museum of Geology in Bucharest, National Military Club in Bucharest,
+        Casino Mamaia Carol I Mosque. The museum was founded in 1868 following the donation
+        of his works by the artist, numbered 108. Subsequently, Heritage Museum was enriched
+        after 1968, following the donation made by the artists family, leading to over 200
+        works. His works are sculptures, statues, busts, reliefs, drawings and sketches,
+        and evoke themes of folklore, mythology and war. The ground floor and the floor of
+        the museum present the artists original works as well as the mock-ups. In the
+        basement of the museum there is a stately statue depicting Queen Elizabeth. And at
+        the Art Museum of Constanta, which is subordinated to the Museum of sculpture Ion Jalea
+        exposed some of the artists work.</string>
+    <!-- Statues -->
+    <string name="statuesName_1">Bust of Mihai Eminescu</string>
+    <string name="statuesAddress_1">Cazino Cliff, Genovez Lighthouse area</string>
+    <string name="statuesDescription_1">Year: 1932 (1934 unveiled) Artist: Oscar Han
+        (3 Dec 1981 - 14 Feb 1976) Status: There is the same place. Under the bust of
+        Eminescu we see a mousse. Many think its Veronica Micle, but its actually
+        Caliope. In Greek mythology, it was the muse of Music, Song, Dance and Eloquence.
+        In the classical age, it is considered to be the muse of Epic Poetry.</string>
+    <string name="statuesName_2">The Archer</string>
+    <string name="statuesAddress_2">In front of the Ion Jalea Museum</string>
+    <string name="statuesDescription_2">Year: 1926 (MINAC says 1961 - probably the location)
+        Artist: Ion Jalea (19 May 1887 - 7 Nov 1983) Located in front of the Ion Jalea Museum
+        Status: There is a museum. Until recently, he was in the casino park and then
+        moved to the Ion Jalea Museum.</string>
+</resources>
