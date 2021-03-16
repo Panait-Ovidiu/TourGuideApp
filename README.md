@@ -1,4 +1,4 @@
-# TourGuideApp
+# Tour Guide App
 
 The project was carried out during the Android Basics Nanodegree by Google course.
 The application provides information about important tourist attractions (statues, museums, history and churches) in the city of Constanța.
